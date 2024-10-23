@@ -1,0 +1,28 @@
+package com.tenbyten.controller.serviceAction;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.tenbyten.controller.mainAction.Action;
+import com.tenbyten.dao.ServiceBoardDAO;
+import com.tenbyten.dto.ServiceBoardVO;
+
+public class ServiceBoardUpdateAction implements Action {
+
+	@Override
+	public void execute(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		ServiceBoardVO sbVo = (ServiceBoardVO) request.getAttribute("sbVo");
+		int board_no = (int) request.getAttribute("board_no");
+
+		ServiceBoardDAO sbDao = ServiceBoardDAO.getInstance();
+		int result = sbDao.updateServieBoard(sbVo);
+
+
+		new ServiceBoardAction().execute(request, response);
+
+	}
+
+}

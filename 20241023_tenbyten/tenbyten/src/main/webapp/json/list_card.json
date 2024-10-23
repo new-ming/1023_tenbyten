@@ -1,0 +1,35 @@
+[
+    {
+        "title" : "소닉슬립 브랜드 기획전",
+        "text" : "편안한 하루의 시작. 소닉슬립과 함께",
+        "discount" : "",
+        "imgURL" : "img/card/card_list_1.jpg"
+    },{
+        "title" : "[수능D-100] 텐텐이 준비한 열열한 응원!",
+        "text" : "무더운 여름, 고생하고 있는 너에게 보내는 응원 & 공부 아이템",
+        "discount" : "~55%",
+        "imgURL" : "img/card/card_list_2.jpg"
+    },{
+        "title" : "무선 고데기의 편리함♥ #유선유죄 #무선무죄",
+        "text" : "비블리와 위글위글이 만나 매일 지루한 고데기 일상에 상큼함을 더했어요",
+        "discount" : "~40%",
+        "imgURL" : "img/card/card_list_3.jpg"
+    },{
+        "title" : "니코트와 함께 하는 일본 미식 여행",
+        "text" : "일본 식당 감성 그대로, 우리집 식탁 위에 그대로",
+        "discount" : "~55%",
+        "imgURL" : "img/card/card_list_4.jpg"
+    },{
+        "title" : "스누피 폰케이스 너도 같이 살래?",
+        "text" : "귀여운 스누피 폰케이스 무료배송 최저가 이벤트♥",
+        "discount" : "~41%",
+        "imgURL" : "img/card/card_list_5.jpg"
+    },{
+        "title" : "선물 같은 상상, 서커스보이밴드",
+        "text" : "잃어버렸던 일상 속 소소한 즐거움을 찾아서",
+        "discount" : "",
+        "imgURL" : "img/card/card_list_6.jpg"
+    }
+
+
+]

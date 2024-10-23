@@ -1,0 +1,120 @@
+@charset "utf-8";
+
+/* 기존 CSS와 충돌하지 않도록 */
+.service-board-container {
+    background-color: #fff;
+    padding: 40px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.info-text {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.table th {
+    background-color: #f4f4f4;
+}
+
+.no-records {
+    text-align: center;
+    padding: 20px;
+    color: #888;
+}
+
+.btn-submit {
+    display: block;
+    width: 150px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.mini{
+	width: 100px;
+	margin-left: 10px
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination a {
+    padding: 10px 15px;
+    margin: 0 5px;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    color: #333;
+}
+
+.pagination .current-page {
+    background-color: red;
+    color: white;
+}
+
+
+#content {
+	height: 600px;
+}
+
+.textWrap {
+	height: 350px;
+}
+
+.imgWrap{
+	height: 200px;
+}
+
+.imgbox{
+	height: 200px;
+	width: 100%;
+	display: inline;
+}
+
+.imgbox img{
+	height: 100%;
+}
+
+input[type="text"]{
+	width: 90%;
+	height: 30px;
+}
+
+textarea {
+	width: 95%;
+	height: 95%;				
+				
+}
+
+select {
+	width: 200px;
+	height: 30px;	
+	font-size: 16px;			
+
+}

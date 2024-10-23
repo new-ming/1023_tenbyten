@@ -1,0 +1,42 @@
+@charset "utf-8";
+h3 {
+	text-align: left;
+	color: #d33;
+}
+
+table{
+		border:1px solid #ccc  ;
+		border-collapse: collapse; /* 테두리 사이를 없애고 붙이기 */
+    	border-spacing: 0; /* 셀 간의 간격을 0으로 설정 */
+		
+}
+
+tr {
+	height: 50px;
+}
+
+td {
+	border:0.5px solid #ccc  ;
+	background-color: white;
+}
+
+tr td:first-child {
+	width: 150px;
+	text-align: right;
+	padding: 0 10px;
+}
+
+tr td:last-child {
+	width: 500px;
+	font-size: 12px;
+	padding: 0 10px;
+	
+
+}
+
+input[type="text"], input[type="password"] {
+	height: 40px;
+	width: 250px;
+	background-color: rgb(242, 242, 242);
+	border: none;
+}

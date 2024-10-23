@@ -1,0 +1,68 @@
+package com.tenbyten.controller;
+
+import java.io.IOException;
+
+import javax.servlet.ServletContext;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.oreilly.servlet.MultipartRequest;
+import com.oreilly.servlet.multipart.DefaultFileRenamePolicy;
+import com.tenbyten.controller.mainAction.Action;
+
+
+@WebServlet("/Service")
+public class ServiceBoardServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+
+    public ServiceBoardServlet() {
+        super();
+      
+    }
+
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String command = request.getParameter("command");
+		System.out.println("ServiceBoardServlet에서 요청을 받음을 확인 GET : " + command);
+		
+		ActionFactory af=ActionFactory.getInstance();
+		
+		Action action = af.getAction(command);
+
+		if(action != null){
+		  action.execute(request, response);
+		}
+		
+	}
+
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		request.setCharacterEncoding("UTF-8");
+		
+	    // Multipart 처리
+	    ServletContext context = request.getServletContext();
+	    String path = context.getRealPath("/uploads"); // 파일 저장 경로
+	    int sizeLimit = 20 * 1024 * 1024; // 20MB 파일 제한
+	    String encType = "UTF-8";
+
+	    MultipartRequest multi = new MultipartRequest(request, path, sizeLimit, encType, new DefaultFileRenamePolicy());
+	    
+	    // MultipartRequest를 사용하여 'command' 파라미터 가져오기
+	    String command = multi.getParameter("command");
+	    System.out.println("ServiceBoardServlet에서 요청을 받음을 확인 POST : " + command);
+	    
+	    
+		ActionFactory af=ActionFactory.getInstance();
+		
+		Action action = af.getAction(command);
+
+		if(action != null){
+		  action.execute(request, response);
+		}
+	}
+
+}
