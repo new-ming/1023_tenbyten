@@ -260,7 +260,7 @@ public class MemberDAO {
 	public int memberUpdate(int user_no, String pwd, String phone, String username, String email, String birth) {
 		int result = -1;
 		
-		String sql ="UPDATE member SET pwd=?, phone=?, username=? email=? birth=? WHERE  user_no=?"; 
+		String sql ="UPDATE member SET pwd=?, phone=?, username=?, email=?, birth=? WHERE  user_no=?"; 
 		
 		Connection conn = null;
 		PreparedStatement pstmt = null;
