@@ -87,7 +87,7 @@ public class ServiceBoardServlet extends HttpServlet {
 		sbVo.setState("답변대기");
 		sbVo.setTitle(title);
 		sbVo.setUser_no(user_no);
-		sbVo.setBoard_no(Integer.parseInt(board_no));
+		if(board_no != null) sbVo.setBoard_no(Integer.parseInt(board_no));
 
 	    System.out.println("ServiceBoardServlet에서 요청을 받음을 확인 POST : " + command);
 	    
