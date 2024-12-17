@@ -72,7 +72,7 @@
 			            </tr>
 			            <tr>
 			            	<td>비밀번호 확인</td>
-			                <td id="checkText">
+			                <td>
 			                	<input type="password" name="pwd_check" id="pwd_check" placeholder="비밀번호 확인" onkeyup="pwdCheck()">
 			                	<span id="checkText"></span>
 			                </td>    
