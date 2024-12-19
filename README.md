@@ -14,12 +14,11 @@
 - [프로젝트 구현](https://github.com/new-ming/1023_tenbyten#프로젝트-구현)
 - [핵심 기능](https://github.com/new-ming/1023_tenbyten#핵심-기능)
 - [주요기능 실행화면](https://github.com/new-ming/C1023_tenbyten#주요기능-실행화면)
-
+<br><br>
 
 
 ## 개요 
 * 프로젝트 목표 : `JSP` 와 `Servlet`을 사용한 프로젝트
-
 <br>
 
 ## 기술 스택
@@ -34,12 +33,14 @@
 ## EER Diagram
 ![다이어그램](https://github.com/user-attachments/assets/e6f33b02-edb0-4268-8b3a-e21caaddff43)
 <br>
+
 ## 프로젝트 구현
 |![슬라이드1](https://github.com/user-attachments/assets/1d2b9366-e894-47e0-88a2-865ad7e4e1be)|![슬라이드2](https://github.com/user-attachments/assets/ad086184-7677-4843-9b54-9b14a9a40467)|
 | :-------------: | :-------------: | 
 |![슬라이드3](https://github.com/user-attachments/assets/abedd054-2bb7-4241-9933-b97d7afbe235)|![슬라이드4](https://github.com/user-attachments/assets/dd62ac3f-9bbf-4689-b7fc-e958f7aee917)|
 |![슬라이드5](https://github.com/user-attachments/assets/2c791134-9ef8-48ed-86da-f8e3650243a9)||
 <br>
+
 ## 핵심 기능
 #### 회원정보
   - 로그인/로그아웃
@@ -53,6 +54,7 @@
   - 문의 삭제
 
 <br><br>
+
 ## 주요기능 실행화면
 #### 회원정보
 * **로그인/로그아웃**
@@ -81,6 +83,7 @@
 
 
 <br>
+
 #### 문의
 * **문의 등록**
 
