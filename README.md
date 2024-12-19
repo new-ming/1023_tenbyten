@@ -1,5 +1,6 @@
 
-![main](https://github.com/user-attachments/assets/2678c774-98cc-4974-b1ce-095acf91beca)
+![10_main](https://github.com/user-attachments/assets/e80d0a99-80c3-46b8-bf4d-34c176f7ba47)
+
 
 <h1 align="center">JSP&Servlet 개인 프로젝트</h1>
 <h3 align="center">TenByTen</h3>
@@ -29,6 +30,14 @@
   - ETC : `Git`
 <br>
 
+## EER Diagram
+![다이어그램](https://github.com/user-attachments/assets/e6f33b02-edb0-4268-8b3a-e21caaddff43)
+
+## 프로젝트 구현
+|![슬라이드1](https://github.com/user-attachments/assets/1d2b9366-e894-47e0-88a2-865ad7e4e1be)|![슬라이드2](https://github.com/user-attachments/assets/ad086184-7677-4843-9b54-9b14a9a40467)|
+| :-------------: | :-------------: | 
+|![슬라이드3](https://github.com/user-attachments/assets/abedd054-2bb7-4241-9933-b97d7afbe235)|![슬라이드4](https://github.com/user-attachments/assets/dd62ac3f-9bbf-4689-b7fc-e958f7aee917)|
+|![슬라이드5](https://github.com/user-attachments/assets/2c791134-9ef8-48ed-86da-f8e3650243a9)||
 
 ## 핵심 기능
 #### 회원정보
