@@ -1,5 +1,6 @@
 
-![tenbyten_main (2)](https://github.com/user-attachments/assets/b139bc39-815a-4474-a488-e62815a10d90)
+![tenbyten_main (4)](https://github.com/user-attachments/assets/5f9a6e17-bec8-4cbd-9785-92af6215ac72)
+
 
 <h1 align="center">JSP&Servlet 개인 프로젝트</h1>
 <h3 align="center">TenByTen</h3>
