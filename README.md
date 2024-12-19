@@ -39,7 +39,7 @@
 |![슬라이드1](https://github.com/user-attachments/assets/1d2b9366-e894-47e0-88a2-865ad7e4e1be)|![슬라이드2](https://github.com/user-attachments/assets/ad086184-7677-4843-9b54-9b14a9a40467)|
 | :-------------: | :-------------: | 
 |![슬라이드3](https://github.com/user-attachments/assets/abedd054-2bb7-4241-9933-b97d7afbe235)|![슬라이드4](https://github.com/user-attachments/assets/dd62ac3f-9bbf-4689-b7fc-e958f7aee917)|
-|![슬라이드5](https://github.com/user-attachments/assets/2c791134-9ef8-48ed-86da-f8e3650243a9)|![tenbyten_main](https://github.com/user-attachments/assets/5f3aebf6-5457-4a39-858c-7155b7046248)|
+|![슬라이드5](https://github.com/user-attachments/assets/2c791134-9ef8-48ed-86da-f8e3650243a9)||
 <br>
 
 ## 핵심 기능
