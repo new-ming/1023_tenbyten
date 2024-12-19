@@ -36,10 +36,13 @@
 <br>
 
 ## 프로젝트 구현
-|![슬라이드1](https://github.com/user-attachments/assets/1d2b9366-e894-47e0-88a2-865ad7e4e1be)|![슬라이드2](https://github.com/user-attachments/assets/ad086184-7677-4843-9b54-9b14a9a40467)|
-| :-------------: | :-------------: | 
-|![슬라이드3](https://github.com/user-attachments/assets/abedd054-2bb7-4241-9933-b97d7afbe235)|![슬라이드4](https://github.com/user-attachments/assets/dd62ac3f-9bbf-4689-b7fc-e958f7aee917)|
-|![슬라이드5](https://github.com/user-attachments/assets/2c791134-9ef8-48ed-86da-f8e3650243a9)||
+![슬라이드1](https://github.com/user-attachments/assets/db0df3ae-474c-49b9-b752-83fc0834e408)
+![슬라이드2](https://github.com/user-attachments/assets/28de371b-c41b-4345-af77-efbf07bb1718)
+![슬라이드3](https://github.com/user-attachments/assets/84c782a0-1875-4e5c-b890-e17333d13e60)
+![슬라이드4](https://github.com/user-attachments/assets/5ff3dca2-dd4d-4263-bd67-52f916e2478a)
+![슬라이드5](https://github.com/user-attachments/assets/375b46ba-6449-438e-a5f4-f137aad591e4)
+
+
 <br>
 
 ## 핵심 기능
