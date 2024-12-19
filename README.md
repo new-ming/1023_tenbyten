@@ -1,7 +1,5 @@
 
-
-![tenbyten_main (2)](https://github.com/user-attachments/assets/68b22264-6672-451e-97a9-9ba69c8e3f62)
-
+![tenbyten_main (2)](https://github.com/user-attachments/assets/b139bc39-815a-4474-a488-e62815a10d90)
 
 <h1 align="center">JSP&Servlet 개인 프로젝트</h1>
 <h3 align="center">TenByTen</h3>
@@ -36,12 +34,16 @@
 <br>
 
 ## 프로젝트 구현
-![슬라이드1](https://github.com/user-attachments/assets/db0df3ae-474c-49b9-b752-83fc0834e408)
+![슬라이드1](https://github.com/user-attachments/assets/db0df3ae-474c-49b9-b752-83fc0834e408) 
+<br><br><br><br>
 ![슬라이드2](https://github.com/user-attachments/assets/28de371b-c41b-4345-af77-efbf07bb1718)
+<br><br><br><br>
 ![슬라이드3](https://github.com/user-attachments/assets/84c782a0-1875-4e5c-b890-e17333d13e60)
+<br><br><br><br>
 ![슬라이드4](https://github.com/user-attachments/assets/5ff3dca2-dd4d-4263-bd67-52f916e2478a)
+<br><br><br><br>
 ![슬라이드5](https://github.com/user-attachments/assets/375b46ba-6449-438e-a5f4-f137aad591e4)
-
+<br><br><br><br>
 
 <br>
 
